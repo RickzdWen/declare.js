@@ -18,7 +18,7 @@ define(['declare'], function(declare){
 ```
 ## CommonJs
 ```javascript
-var declare = require('declare');
+var declare = require('ft-declare');
 return declare(null, {
   // 创建类
 });

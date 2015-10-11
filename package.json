@@ -1,0 +1,21 @@
+{
+  "name": "ft-declare",
+  "version": "0.1.1",
+  "description": "declare.js is a function for helping write object oriented javascript code. It is extracted from DOJO.",
+  "main": "declare.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RickzdWen/declare.js.git"
+  },
+  "keywords": [
+    "OOP"
+  ],
+  "author": "rick <zhengdwen@qq.com>",
+  "bugs": {
+    "url": "https://github.com/RickzdWen/declare.js/issues"
+  },
+  "homepage": "https://github.com/RickzdWen/declare.js"
+}
