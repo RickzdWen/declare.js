@@ -11,7 +11,7 @@ npm install ft-declare
 ## AMD
 ```javascript
 define(['declare'], function(declare){
-  return declare({
+  return declare(null, {
     // 创建类
   });
 });
@@ -19,14 +19,14 @@ define(['declare'], function(declare){
 ## CommonJs
 ```javascript
 var declare = require('declare');
-return declare({
+return declare(null, {
   // 创建类
 });
 ```
 
 # 创建类
 ```javascript
-var C1 = declare({
+var C1 = declare(null, {
   constructor : function() {
     // 构造函数
     this.name = 'c1';
