@@ -559,7 +559,6 @@ function inherited(args, a, f){
 
 declare.safeMixin = safeMixin;
 declare.mixin = mixin;
-module.exports = declare;
 
 (function(root, factory){
     if (typeof define === 'function' && define.amd) {

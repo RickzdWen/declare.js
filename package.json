@@ -1,6 +1,6 @@
 {
   "name": "ft-declare",
-  "version": "0.1.1",
+  "version": "1.0.1",
   "description": "declare.js is a function for helping write object oriented javascript code. It is extracted from DOJO.",
   "main": "declare.js",
   "scripts": {
